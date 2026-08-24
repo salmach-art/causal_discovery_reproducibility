@@ -1,0 +1,12 @@
+CBN,ConstraintType,Source,Target
+Asia,Required,Smoking,LungCancer
+Asia,Required,LungCancer,Dyspnoea
+Asia,Forbidden,Smoking,Dyspnoea
+Asia,Forbidden,Bronchitis,Tuberculosis
+Elderly,Required,DrugsNb,Hypotension
+Elderly,Required,Parkinson,DifficultyWalking
+Elderly,Required,Parkinson,Dementia
+Elderly,Required,Hypotension,FallsNb
+Elderly,Forbidden,FallsNb,Diabetes
+Elderly,Forbidden,Stroke,Age
+Elderly,Forbidden,AutonomyLoss,FallsNb

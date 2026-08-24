@@ -1,0 +1,9 @@
+Asia:
+  - {name: AirPollution, causes: [Bronchitis, LungCancer, Dyspnea]}
+  - {name: GeneticSusceptibility, causes: [LungCancer, Tuberculosis]}
+  - {name: SocioeconomicStatus, causes: [Smoking, Tuberculosis]}
+Suicide:
+  - {name: PsychologicalVulnerability, causes: [Depression, Anxiety, SubstanceAbuse]}
+  - {name: SocialSupport, causes: [Depression, SuicideRisk]}
+  - {name: EmotionalShock, causes: [Stress, Depression, SuicideRisk]}
+  - {name: SubstanceAbusePropensity, causes: [SubstanceAbuse, SuicideRisk]}

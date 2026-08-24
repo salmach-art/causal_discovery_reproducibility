@@ -1,0 +1,8 @@
+Asia:
+  default: {CausalNex: NOTEARS, CausalLearn: PC, CDT: PC}
+  best: {CausalNex: NOTEARS, CausalLearn: GES, CDT: PC}
+Elderly:
+  default: {CausalNex: NOTEARS, CausalLearn: PC, CDT: PC}
+  best: {CausalNex: HillClimbing, CausalLearn: PC, CDT: GES}
+Latent_confounders:
+  CausalLearn: FCI
