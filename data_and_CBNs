@@ -1,1 +1,10 @@
 
+# Data
+
+Asia: publicly available benchmark dataset. 
+Suicide: no original observational dataset was available; data were generated
+from the expert-defined Suicide CBN and CPTs.
+
+Elderly: real-world clinical dataset. The complete dataset is not redistributed
+because of project/data-sharing restrictions. 
+A permitted illustrative samples are available.
